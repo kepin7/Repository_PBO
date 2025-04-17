@@ -1,0 +1,10 @@
+Interface\Store.class
+Interface\Payable.class
+Abstract\Employee.class
+Interface\Invoice.class
+Interface\MyInterface.class
+Interface\Shoe.class
+Interface\Example.class
+com\mycompany\praktikum_7\Praktikum_7.class
+Abstract\SalariedEmployee.class
+Interface\Product.class
